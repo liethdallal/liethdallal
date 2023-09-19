@@ -1,11 +1,12 @@
 # Welcome To My Github Profile!
-# <img width="400" alt="Screenshot 2023-08-29 at 12 13 02 PM" src="https://github.com/liethdallal/liethdallal/assets/139842069/e4aaa0da-c226-425a-9317-7800a6364452">
+# ![giphy](https://github.com/liethdallal/liethdallal/assets/139842069/74a523c1-07a5-44ee-8b17-5a1a675fdfce)
+
 
 ##  My Website: https://liethdallal.github.io/My-Website/
 My name is Lieth Dallal I am a software developer who has a passion for computer science!
 
 ## About Me
-- 🌍 I'm based in the United States in the state of Illinois
+- 🌍 I'm based in the United States: Willowbrook, Illinois
 - 💼 I currently am enrolled in the Software Engineering Immersive Program with General Assembly 
 
 ## My Interests
