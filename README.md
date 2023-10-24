@@ -3,7 +3,7 @@
 
 
 ##  My Website: https://liethdallal.github.io/My-Website/
-My name is Lieth Dallal I am a software developer who has a passion for computer science!
+My name is Lieth Dallal I am a software developer who has a passion for developing applications!
 
 ## About Me
 - 🌍 I'm based in the United States: Willowbrook, Illinois
