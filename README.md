@@ -3,21 +3,25 @@
 
 
 ##  My Website: https://liethdallal.github.io/My-Portfolio/
-My name is Lieth Dallal I am a software developer who has a passion for developing applications!
+My name is Lieth Dallal, I am a software developer who has a passion for developing applications!
 
 ## About Me
 - 🌍 I'm based in the United States: Willowbrook, Illinois
-- 💼 I currently am enrolled in the Software Engineering Immersive Program with General Assembly 
+- 💼 I currently am enrolled in the Software Engineering Immersive Program with General Assembly
+- 🟥 I started a YouTube channel to start uploading tutorials and my journey in the tech world! Link to channel(https://www.youtube.com/channel/UC6dR3kpPXwAQLfsjH_GLACQ)
 
 ## My Interests
-- 👨‍💻 I'm fascinated by the amount of tools availiable on the internet
+- 👨‍💻 I'm fascinated by the amount of tools available on the internet
 - 📚 I love learning and sharing knowledge
 - 🎮 In my free time, I enjoy building various games and websites
 - 🌱 I'm always exploring new things and pushing my boundaries
 
 ## Get in Touch
-- 📧 You can reach me via Email: liethdallal@gmail.com
-- 🌐 Connect with me on Linkedin: www.linkedin.com/in/liethdallal 
+- 📧 You can reach me via Email: (liethdallal@gmail.com)
+- 🌐 Connect with me on Linkedin: (www.linkedin.com/in/liethdallal)
+- 👥 Connect with me on Facebook: (https://www.facebook.com/profile.php?id=100091388719874)
+- 🔴 Connect with me on Instagram: (https://www.instagram.com/liethdallal/)
+- 🕊️ Connect with me on Twitter: ((https://twitter.com/liethdallal)
 
 ## My GitHub Stats
 [![Lieth's GitHub stats](https://github-readme-stats.vercel.app/api?username=liethdallal)](https://github.com/liethdallal/github-readme-stats)
