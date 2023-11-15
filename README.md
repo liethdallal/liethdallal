@@ -16,15 +16,10 @@ My name is Lieth Dallal, I am a software developer who has a passion for develop
 - 🎮 In my free time, I enjoy building various games and websites
 - 🌱 I'm always exploring new things and pushing my boundaries
 
-## Get in Touch
-- 📧 You can reach me via Email: (liethdallal@gmail.com)
-- 🌐 Connect with me on Linkedin: (www.linkedin.com/in/liethdallal)
-- 👥 Connect with me on Facebook: (https://www.facebook.com/profile.php?id=100091388719874)
-- 🔴 Connect with me on Instagram: (https://www.instagram.com/liethdallal/)
-- 🕊️ Connect with me on Twitter: ((https://twitter.com/liethdallal)
-
-## My GitHub Stats
-[![Lieth's GitHub stats](https://github-readme-stats.vercel.app/api?username=liethdallal)](https://github.com/liethdallal/github-readme-stats)
+## Fun Facts
+- 🎵 Favorite Song: Walk, by Kwabs 
+- 📺 Favorite TV Show: Arrow 
+- 🍕 Favorite Pizza Topping: BBQ Chicken 
 
 ## Recent Projects
 - Simon Game: https://liethdallal.github.io/Project-1-Simon-Game/
@@ -34,10 +29,15 @@ A game where the user must follow a sequence to increase his score!
   <br>
 A game where the user must match all the tiles to win!
 
-## Fun Facts
-- 🎵 Favorite Song: Walk, by Kwabs 
-- 📺 Favorite TV Show: Arrow 
-- 🍕 Favorite Pizza Topping: BBQ Chicken 
-
 Thanks for visiting my GitHub profile! Feel free to explore my repositories and reach out if you'd like to collaborate or just chat about tech and other interests.
 
+## My GitHub Stats
+[![Lieth's GitHub stats](https://github-readme-stats.vercel.app/api?username=liethdallal)](https://github.com/liethdallal/github-readme-stats)
+
+
+## Get in Touch
+- 📧 You can reach me via Email: (liethdallal@gmail.com)
+- 🌐 Connect with me on Linkedin: (www.linkedin.com/in/liethdallal)
+- 👥 Connect with me on Facebook: (https://www.facebook.com/profile.php?id=100091388719874)
+- 🔴 Connect with me on Instagram: (https://www.instagram.com/liethdallal/)
+- 🕊️ Connect with me on Twitter: ((https://twitter.com/liethdallal)
