@@ -36,7 +36,7 @@ Thanks for visiting my GitHub profile! Feel free to explore my repositories and 
 
 
 ## Get in Touch
-- 📧 You can reach me via Email: (liethdallal@gmail.com)
+- 📧 You can reach me via Email: (liethcodes@gmail.com)
 - 🌐 Connect with me on Linkedin: (www.linkedin.com/in/liethdallal)
 - 👥 Connect with me on Facebook: (https://www.facebook.com/profile.php?id=100091388719874)
 - 🔴 Connect with me on Instagram: (https://www.instagram.com/liethdallal/)
