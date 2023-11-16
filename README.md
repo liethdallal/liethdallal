@@ -8,7 +8,7 @@ My name is Lieth Dallal, I am a software developer who has a passion for develop
 ## About Me
 - 🌍 I'm based in the United States: Willowbrook, Illinois
 - 💼 I currently am enrolled in the Software Engineering Immersive Program with General Assembly
-- 🟥 I started a YouTube channel to start uploading tutorials and my journey in the tech world! Link to channel(https://www.youtube.com/channel/UC6dR3kpPXwAQLfsjH_GLACQ)
+- 🟥 I started a YouTube channel to start uploading tutorials and my journey in the tech world! Link to channel(https://www.youtube.com/@LiethCodes)
 
 ## My Interests
 - 👨‍💻 I'm fascinated by the amount of tools available on the internet
