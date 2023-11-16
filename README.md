@@ -40,4 +40,4 @@ Thanks for visiting my GitHub profile! Feel free to explore my repositories and 
 - 🌐 Connect with me on Linkedin: (www.linkedin.com/in/liethdallal)
 - 👥 Connect with me on Facebook: (https://www.facebook.com/profile.php?id=100091388719874)
 - 🔴 Connect with me on Instagram: (https://www.instagram.com/liethdallal/)
-- 🕊️ Connect with me on Twitter: ((https://twitter.com/liethdallal)
+- 🕊️ Connect with me on Twitter: (https://twitter.com/liethdallal)
