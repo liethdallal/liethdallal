@@ -25,9 +25,9 @@ My name is Lieth Dallal, I am a software developer who has a passion for develop
 - Simon Game: https://liethdallal.github.io/Project-1-Simon-Game/
   <br>
 A game where the user must follow a sequence to increase his score!
-- Tile Matching Game: https://liethdallal.github.io/Tile-Matching-Game/
-  <br>
-A game where the user must match all the tiles to win!
+- SkyMap Connect: https://liethdallal.github.io/Project-3-SkyMap-Connect/ 
+  <br/>
+A website where the user can look up weather information from any city around the world 
 
 Thanks for visiting my GitHub profile! Feel free to explore my repositories and reach out if you'd like to collaborate or just chat about tech and other interests.
 
