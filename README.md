@@ -22,9 +22,9 @@ My name is Lieth Dallal, I am a software developer who has a passion for develop
 - 🍕 Favorite Pizza Topping: BBQ Chicken 
 
 ## Recent Projects
-- Simon Game: https://liethdallal.github.io/Project-1-Simon-Game/
+- Movie-Planner: https://project-2-movie-planner-cbd864d43518.herokuapp.com/profile 
   <br>
-A game where the user must follow a sequence to increase his score!
+An Application where you can add movies to a list to watch in the future! (Sign in functionality included!)
 - SkyMap Connect: https://liethdallal.github.io/Project-3-SkyMap-Connect/ 
   <br/>
 A website where the user can look up weather information from any city around the world 
