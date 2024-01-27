@@ -22,11 +22,14 @@ My name is Lieth Dallal, I am a software developer who has a passion for develop
 - 🍕 Favorite Pizza Topping: BBQ Chicken 
 
 ## Recent Projects
+- LifeSync: https://lifesync-c5b8904909b8.herokuapp.com/ 
+  <br>
+  Your all-in-one productivity and lifestyle manager, helping you stay organized.
 - Movie-Planner: https://project-2-movie-planner-cbd864d43518.herokuapp.com/profile 
   <br>
 An Application where you can add movies to a list to watch in the future! (Sign in functionality included!)
 - SkyMap Connect: https://liethdallal.github.io/Project-3-SkyMap-Connect/ 
-  <br/>
+  <br>
 A website where the user can look up weather information from any city around the world 
 
 Thanks for visiting my GitHub profile! Feel free to explore my repositories and reach out if you'd like to collaborate or just chat about tech and other interests.
