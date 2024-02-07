@@ -7,7 +7,7 @@ My name is Lieth Dallal, I am a software developer who has a passion for develop
  
 ## About Me
 - 🌍 I'm based in the United States: Willowbrook, Illinois
-- 💼 I currently am enrolled in the Software Engineering Immersive Program with General Assembly
+- 💼 Just graduated from General Assembly's Software Engineering Immersive program!
 - 🟥 I started a YouTube channel to start uploading tutorials and my journey in the tech world! Link to channel(https://www.youtube.com/@LiethCodes)
 
 ## My Interests
@@ -27,7 +27,7 @@ My name is Lieth Dallal, I am a software developer who has a passion for develop
   Your all-in-one productivity and lifestyle manager, helping you stay organized.
 - Movie-Planner: https://project-2-movie-planner-cbd864d43518.herokuapp.com/profile 
   <br>
-An Application where you can add movies to a list to watch in the future! (Sign in functionality included!)
+An Application where you can add movies to a list to watch in the future! (Sign-in functionality included!)
 - SkyMap Connect: https://liethdallal.github.io/Project-3-SkyMap-Connect/ 
   <br>
 A website where the user can look up weather information from any city around the world 
