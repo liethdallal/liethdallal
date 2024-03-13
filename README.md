@@ -37,7 +37,7 @@ Thanks for visiting my GitHub profile! Feel free to explore my repositories and 
 ## My GitHub Stats
 [![Lieth's GitHub stats](https://github-readme-stats.vercel.app/api?username=liethdallal)](https://github.com/liethdallal/github-readme-stats)
 
-
+ v
 ## Get in Touch
 - 📧 You can reach me via Email: (liethcodes@gmail.com)
 - 🌐 Connect with me on Linkedin: (www.linkedin.com/in/liethdallal)
