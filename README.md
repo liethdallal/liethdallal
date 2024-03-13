@@ -1,7 +1,7 @@
  # Welcome To My Github Profile!    
 # ![giphy](https://github.com/liethdallal/liethdallal/assets/139842069/74a523c1-07a5-44ee-8b17-5a1a675fdfce)
     
-             
+              
 ##  My Portfolio: https://liethdallal.com    
 My name is Lieth Dallal, I am a software developer who has a passion for developing applications!
  
