@@ -3,7 +3,7 @@
       
                    
 ##  My Portfolio: https://liethdallal.com     
-My name is Lieth Dallal, I am a software developer who has a passion for developing applications!
+My name is Lieth Dallal, I am a Software Engineer who has a passion for developing applications!
   
 ## About Me 
 - 🌍 I'm based in the United States: Willowbrook, Illinois
